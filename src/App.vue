@@ -1,10 +1,15 @@
 <script>
 import HeaderApp from './components/HeaderApp.vue';
 export default{
-  name: App,
+  name: HeaderApp,
   components: {
     HeaderApp
-  }
+  },
+  data(){
+    return{
+
+    }
+  },
 }
 </script>
 
