@@ -6,6 +6,8 @@
     </header>
 </template>
 <script>
+import HeaderApp from '../components/HeaderApp.vue';
+
 export default {
     name:'HeaderApp',
     data(){
@@ -15,5 +17,6 @@ export default {
     }
 }
 </script>
-<style>
+
+<style lang="scss">
 </style>
