@@ -6,7 +6,7 @@
     </header>
 </template>
 <script>
-import HeaderApp from '../components/HeaderApp.vue';
+import navLink from './components/NavLink.vue';
 
 export default {
     name:'HeaderApp',
