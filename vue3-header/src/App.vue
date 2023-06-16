@@ -1,5 +1,5 @@
 <script>
-import HeaderApp from './components/HeaderApp.vue';
+import HeaderApp from './components/AppHeader.vue';
 export default{
   name: HeaderApp,
   components: {
